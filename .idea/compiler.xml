@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <annotationProcessing>
-      <profile name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-      </profile>
-    </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="DFS" target="14" />
       <module name="DP" target="14" />
+      <module name="DP.main" target="14" />
+      <module name="DP.test" target="14" />
+      <module name="haha" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
