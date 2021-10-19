@@ -1,0 +1,4 @@
+解题思路：
+每次game开始，都从idx 0石头开始，每次分 3叉: k - 1, k, k + 1; 注意 memo的设计，这里idx是连续的，lastStep是离散的，所以可以用
+HashMap<Integer, Integer>[] memo 来做memo. 时间复杂度： pruning 时间复杂度分析，需要填值的数量 乘以 填每一个值的cost，这里
+HashMap<Integer, Integer>[] memo的长度为 n，填每个值的dfs cost为 n，时间复杂度为 O(n^2).
