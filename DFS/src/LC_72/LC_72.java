@@ -33,7 +33,7 @@ public class LC_72 {
 
 
 
-        int res = Integer.MAX_VALUE; // TODO
+        int res = Integer.MAX_VALUE;
         char ch1 = word1.charAt(idx1);
         char ch2 = word2.charAt(idx2);
         if (ch1 == ch2) {
