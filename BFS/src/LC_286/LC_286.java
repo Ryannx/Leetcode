@@ -1,3 +1,5 @@
+package LC_286;
+
 import java.util.LinkedList;
 import java.util.Queue;
 
