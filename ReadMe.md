@@ -25,10 +25,11 @@
 [329. Longest Increasing Path in a Matrix](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_329)  
 [403. Frog Jump](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_403)  
 [488. Zuma Game](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_488)  
-[132. Palindrome Partitioning II](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_132)  
 
-## [DFS]((https://github.com/Ryannx/Leetcode/tree/master/DFS/src))
 
 ## [DP](https://github.com/Ryannx/Leetcode/tree/master/DP/src)
+[62. Unique Paths](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_62)  
+[72. Edit Distance](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_72)  
+[132. Palindrome Partitioning II](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_132)  
 
 ## [Tree](https://github.com/Ryannx/Leetcode/tree/master/Tree/src)
