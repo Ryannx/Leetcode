@@ -1,4 +1,4 @@
-package LC_486;
+package GAME.LC_486;
 
 public class LC_486 {
 
