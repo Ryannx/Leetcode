@@ -1,2 +1,3 @@
 解题思路：
-board长度最大为60，考虑用Long优化board
+board长度最大为60，考虑用Long优化board。时间复杂度分析：不加pruning，每个位置都有2个选择，所以时间复杂度是O(2^n).    加pruning以后，
+需要记录的board的数量是(n/2， 因为有n个位置，每次flip两个连续位置)，每次dfs的cost是n，所以总时间复杂度是O(n^2).

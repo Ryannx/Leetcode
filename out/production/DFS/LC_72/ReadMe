@@ -1,0 +1,2 @@
+解题思路：
+对比word1和word2的每一位，如果 相同 则可以跳过，不同 分三叉 "replace" "add" "remove"。时间复杂度：pruning以后是O(mn).

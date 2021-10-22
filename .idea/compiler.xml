@@ -4,9 +4,6 @@
     <bytecodeTargetLevel>
       <module name="DFS" target="14" />
       <module name="DP" target="14" />
-      <module name="DP.main" target="14" />
-      <module name="DP.test" target="14" />
-      <module name="haha" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
