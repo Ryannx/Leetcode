@@ -31,5 +31,10 @@
 [62. Unique Paths](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_62)  
 [72. Edit Distance](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_72)  
 [132. Palindrome Partitioning II](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_132)  
+[312. Burst Balloons](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_312)  
+[486. Predict the Winner](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_486)
+
+## [Stack]()
+[32. Longest Valid Parentheses]()  
 
 ## [Tree](https://github.com/Ryannx/Leetcode/tree/master/Tree/src)
