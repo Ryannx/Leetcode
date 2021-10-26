@@ -1,3 +1,4 @@
 解题思路：
 双字符串DP问题。dp[i][j]: the number of distinct subsequences of ss[1:i] which equals tt[1:j]。
 当 ss.charAt(i) == tt.charAt(j)时，这个char可以选 和 不选，dp[i][j]的值取决于这两种情况的和。
+注意DP的定义并不是ending with ss[i]。
