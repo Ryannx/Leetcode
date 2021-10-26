@@ -29,12 +29,19 @@
 
 ## [DP](https://github.com/Ryannx/Leetcode/tree/master/DP/src)
 [62. Unique Paths](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_62)  
-[72. Edit Distance](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_72)  
+[72. Edit Distance](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_72)   
+[97. Interleaving String](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_97)  
+[115. Distinct Subsequences](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_115)  
 [132. Palindrome Partitioning II](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_132)  
 [312. Burst Balloons](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_312)  
-[486. Predict the Winner](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_486)
+[486. Predict the Winner](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_486)  
+[940. Distinct Subsequences II](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_940)
 
-## [Stack]()
-[32. Longest Valid Parentheses]()  
+## [Stack](https://github.com/Ryannx/Leetcode/tree/master/Stack/src)
+[32. Longest Valid Parentheses](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_32)  
+
 
 ## [Tree](https://github.com/Ryannx/Leetcode/tree/master/Tree/src)
+[95. Unique Binary Search Trees II](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_95)  
+[98. Validate Binary Search Tree](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_98)  
+[Library](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/Library)  
