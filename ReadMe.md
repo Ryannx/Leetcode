@@ -44,6 +44,7 @@
 
 ## [Stack](https://github.com/Ryannx/Leetcode/tree/master/Stack/src)
 [32. Longest Valid Parentheses](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_32)  
+[739. Daily Temperatures](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_739)  
 
 
 ## [Tree](https://github.com/Ryannx/Leetcode/tree/master/Tree/src)
@@ -56,3 +57,6 @@
 
 ## [LinkedList](https://github.com/Ryannx/Leetcode/tree/master/Linkedlist)
 [203. Remove Linked List Elements](https://github.com/Ryannx/Leetcode/tree/master/Linkedlist/src/LC_203)  
+
+## [Greedy](https://github.com/Ryannx/Leetcode/tree/master/Greedy)
+[300. Longest Increasing Subsequence](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src/LC_300)  
