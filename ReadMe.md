@@ -60,3 +60,4 @@
 
 ## [Greedy](https://github.com/Ryannx/Leetcode/tree/master/Greedy)
 [300. Longest Increasing Subsequence](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src/LC_300)  
+[1178. Number of Valid Words for Each Puzzle](https://github.com/Ryannx/Leetcode/tree/master/Bit/src/LC_1178)  
