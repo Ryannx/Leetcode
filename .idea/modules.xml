@@ -4,12 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BFS/BFS.iml" filepath="$PROJECT_DIR$/BFS/BFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bit/Bit.iml" filepath="$PROJECT_DIR$/Bit/Bit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Combination/Combination.iml" filepath="$PROJECT_DIR$/Combination/Combination.iml" />
       <module fileurl="file://$PROJECT_DIR$/DFS/DFS.iml" filepath="$PROJECT_DIR$/DFS/DFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Greedy/Greedy.iml" filepath="$PROJECT_DIR$/Greedy/Greedy.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Leetcode.iml" filepath="$PROJECT_DIR$/.idea/Leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linkedlist/Linkedlist.iml" filepath="$PROJECT_DIR$/Linkedlist/Linkedlist.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOD/OOD.iml" filepath="$PROJECT_DIR$/OOD/OOD.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
     </modules>
