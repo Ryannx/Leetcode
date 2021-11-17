@@ -65,3 +65,7 @@
 
 ## [Combination](https://github.com/Ryannx/Leetcode/tree/master/Combination/src)
 [1286. Iterator for Combination](https://github.com/Ryannx/Leetcode/tree/master/Combination/src/LC_1286)  
+
+## [Binary Search](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src)
+[378. Kth Smallest Element in a Sorted Matrix](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_378)  
+[668. Kth Smallest Number in Multiplication Table](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_668)  
