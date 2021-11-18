@@ -52,6 +52,7 @@
 [95. Unique Binary Search Trees II](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_95)  
 [96. Unique Binary Search Trees](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_96)  
 [98. Validate Binary Search Tree](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_98)  
+[894. All Possible Full Binary Trees](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_894)  
 [Library](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/Library)  
 
 ## [Bit](https://github.com/Ryannx/Leetcode/tree/master/Bit/src)
