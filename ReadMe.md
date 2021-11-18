@@ -71,3 +71,7 @@
 ## [Binary Search](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src)
 [378. Kth Smallest Element in a Sorted Matrix](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_378)  
 [668. Kth Smallest Number in Multiplication Table](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_668)  
+
+## [IndexingSort](https://github.com/Ryannx/Leetcode/tree/master/IndexingSort/src)
+[448. Find All Numbers Disappeared in an Array](https://github.com/Ryannx/Leetcode/tree/master/IndexingSort/src/LC_448)  
+
