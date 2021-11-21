@@ -19,6 +19,7 @@
 [132. Palindrome Partitioning II](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_132)  
 [139. Word Break](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_139)  
 [140. Word Break II](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_140)  
+[241. Different Ways to Add Parentheses](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_241)  
 [282. Expression Add Operators](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_282)  
 [301. Remove Invalid Parentheses](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_301)  
 [320. Generalized Abbreviation](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_320)  
@@ -71,6 +72,7 @@
 
 ## [Binary Search](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src)
 [378. Kth Smallest Element in a Sorted Matrix](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_378)  
+[540. Single Element in a Sorted Array](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_540)  
 [668. Kth Smallest Number in Multiplication Table](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_668)  
 
 ## [IndexingSort](https://github.com/Ryannx/Leetcode/tree/master/IndexingSort/src)
