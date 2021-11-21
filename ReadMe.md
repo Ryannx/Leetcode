@@ -56,6 +56,7 @@
 [Library](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/Library)  
 
 ## [Bit](https://github.com/Ryannx/Leetcode/tree/master/Bit/src)
+[461. Hamming Distance](https://github.com/Ryannx/Leetcode/tree/master/Bit/src/LC_461)  
 [1178. Number of Valid Words for Each Puzzle](https://github.com/Ryannx/Leetcode/tree/master/Bit/src/LC_1178)  
 
 ## [LinkedList](https://github.com/Ryannx/Leetcode/tree/master/Linkedlist)
