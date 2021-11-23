@@ -53,6 +53,10 @@
 [95. Unique Binary Search Trees II](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_95)  
 [96. Unique Binary Search Trees](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_96)  
 [98. Validate Binary Search Tree](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_98)  
+[99. Recover Binary Search Tree](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_99)  
+[106. Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_106)  
+[222. Count Complete Tree Nodes](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_222)  
+[450. Delete Node in a BST](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_450)  
 [894. All Possible Full Binary Trees](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_894)  
 [Library](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/Library)  
 
