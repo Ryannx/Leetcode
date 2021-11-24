@@ -82,3 +82,5 @@
 ## [IndexingSort](https://github.com/Ryannx/Leetcode/tree/master/IndexingSort/src)
 [448. Find All Numbers Disappeared in an Array](https://github.com/Ryannx/Leetcode/tree/master/IndexingSort/src/LC_448)  
 
+## [UnionFind](https://github.com/Ryannx/Leetcode/tree/master/UnionFind/src)
+[952. Largest Component Size by Common Factor](https://github.com/Ryannx/Leetcode/tree/master/UnionFind/src/LC_952)  
