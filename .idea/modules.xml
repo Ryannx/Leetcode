@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/Linkedlist/Linkedlist.iml" filepath="$PROJECT_DIR$/Linkedlist/Linkedlist.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnionFind/UnionFind.iml" filepath="$PROJECT_DIR$/UnionFind/UnionFind.iml" />
     </modules>
   </component>
 </project>
