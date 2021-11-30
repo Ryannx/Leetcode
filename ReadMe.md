@@ -29,6 +29,7 @@
 
 
 ## [DP](https://github.com/Ryannx/Leetcode/tree/master/DP/src)
+[53. Maximum Subarray](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_53)  
 [62. Unique Paths](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_62)  
 [72. Edit Distance](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_72)   
 [97. Interleaving String](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_97)  
@@ -83,5 +84,6 @@
 [448. Find All Numbers Disappeared in an Array](https://github.com/Ryannx/Leetcode/tree/master/IndexingSort/src/LC_448)
 
 ## [UnionFind](https://github.com/Ryannx/Leetcode/tree/master/UnionFind/src)
-[952. Largest Component Size by Common Factor](https://github.com/Ryannx/Leetcode/tree/master/UnionFind/src/LC_952)
+[952. Largest Component Size by Common Factor](https://github.com/Ryannx/Leetcode/tree/master/UnionFind/src/LC_952)  
+[1627. Graph Connectivity With Threshold](https://github.com/Ryannx/Leetcode/tree/master/UnionFind/src/LC_1627)
 
