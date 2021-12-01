@@ -36,7 +36,11 @@ X X X A
 distinct subsequences 但是包括s[j]，也就是dp[j - 1].  
 所以dp[i] = dp[i - 1] * 2 - dp[j - 1];这里可以通过记录一个 26个英文字符最后出现位置 的array，
 来快速找到，最近一个出现的重复字符的idx， 并且int[] last 可以跟 dp同时完成。  
+<<<<<<< HEAD
 
+这里注意dp[0]表示  
+
+=======
 这里注意dp[0]表示  
 
 [视频讲解参考](https://www.youtube.com/watch?v=boT3gkVPlH4)  
