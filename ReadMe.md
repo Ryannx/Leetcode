@@ -46,6 +46,8 @@
 [940. Distinct Subsequences II](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_940)
 
 ## [Stack](https://github.com/Ryannx/Leetcode/tree/master/Stack/src)
+[84. Largest Rectangle in Histogram](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_84)  
+[85. Maximal Rectangle](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_85)  
 [32. Longest Valid Parentheses](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_32)  
 [739. Daily Temperatures](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_739)  
 
@@ -76,6 +78,7 @@
 [1286. Iterator for Combination](https://github.com/Ryannx/Leetcode/tree/master/Combination/src/LC_1286)  
 
 ## [Binary Search](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src)
+[363. Max Sum of Rectangle No Larger Than K](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_363)  
 [378. Kth Smallest Element in a Sorted Matrix](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_378)  
 [540. Single Element in a Sorted Array](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_540)  
 [668. Kth Smallest Number in Multiplication Table](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_668)  
