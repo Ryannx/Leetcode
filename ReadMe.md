@@ -26,6 +26,7 @@
 [329. Longest Increasing Path in a Matrix](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_329)  
 [403. Frog Jump](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_403)  
 [488. Zuma Game](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_488)  
+[797. All Paths From Source to Target](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_797)  
 
 
 ## [DP](https://github.com/Ryannx/Leetcode/tree/master/DP/src)
@@ -38,6 +39,7 @@
 [115. Distinct Subsequences](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_115)  
 [188. Best Time to Buy and Sell Stock IV](https://github.com/Ryannx/Leetcode/tree/11/04/2021/DP/src/LC_188)  
 [132. Palindrome Partitioning II](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_132)  
+[198. House Robber](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_198)  
 [309. Best Time to Buy and Sell Stock with Cooldown](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_309)  
 [312. Burst Balloons](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_312)  
 [368. Largest Divisible Subset](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_368)  
@@ -49,6 +51,8 @@
 [84. Largest Rectangle in Histogram](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_84)  
 [85. Maximal Rectangle](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_85)  
 [32. Longest Valid Parentheses](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_32)  
+[496. Next Greater Element I](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_496)  
+[503. Next Greater Element II](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_503)  
 [739. Daily Temperatures](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_739)  
 
 
