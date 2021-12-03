@@ -54,6 +54,7 @@
 [496. Next Greater Element I](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_496)  
 [503. Next Greater Element II](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_503)  
 [739. Daily Temperatures](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_739)  
+[1856. Maximum Subarray Min-Product](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_1856)  
 
 
 ## [Tree](https://github.com/Ryannx/Leetcode/tree/master/Tree/src)
@@ -73,6 +74,7 @@
 
 ## [LinkedList](https://github.com/Ryannx/Leetcode/tree/master/Linkedlist)
 [203. Remove Linked List Elements](https://github.com/Ryannx/Leetcode/tree/master/Linkedlist/src/LC_203)  
+[328. Odd Even Linked List](https://github.com/Ryannx/Leetcode/tree/master/Linkedlist/src/LC_328)  
 
 ## [Greedy](https://github.com/Ryannx/Leetcode/tree/master/Greedy)
 [300. Longest Increasing Subsequence](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src/LC_300)  
