@@ -56,6 +56,7 @@
 [496. Next Greater Element I](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_496)  
 [503. Next Greater Element II](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_503)  
 [739. Daily Temperatures](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_739)  
+[907. Sum of Subarray Minimums](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_907)  
 [1856. Maximum Subarray Min-Product](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_1856)  
 
 
@@ -69,6 +70,9 @@
 [450. Delete Node in a BST](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_450)  
 [894. All Possible Full Binary Trees](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_894)  
 [Library](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/Library)  
+
+## [Trie](https://github.com/Ryannx/Leetcode/tree/master/Trie/src)
+[1032. Stream of Characters](https://github.com/Ryannx/Leetcode/tree/master/Trie/src/LC_1032)  
 
 ## [Bit](https://github.com/Ryannx/Leetcode/tree/master/Bit/src)
 [461. Hamming Distance](https://github.com/Ryannx/Leetcode/tree/master/Bit/src/LC_461)  
