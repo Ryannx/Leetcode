@@ -9,4 +9,7 @@ prevSmaller和nextSmaller位置，可以得出有多少个以选定值为最小�
 
 当我们选择第一个1为最小值找subarray时，[2,1,3,1] [1,3,1]都是valid的结果，当我们以第二个1为
 最小值为subarray是，会重复计算[2,1,3,1] [1,3,1]这两个subarray，所以我们约定，在找prevSmaller
-时，在遇到第一个重复元素时就停止，即实际找的是prevSmallerOrEqual element。这样可以避免重复计算。
+时，在遇到第一个重复元素时就停止，即实际找的是prevSmallerOrEqual element。这样可以避免重复计算。  
+
+同时注意在处理乘法问题时，乘积有可能非常大，会有溢出的风险，所以在每一次做乘法时都需要注意是否溢出。
+
