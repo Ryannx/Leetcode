@@ -83,9 +83,10 @@
 [203. Remove Linked List Elements](https://github.com/Ryannx/Leetcode/tree/master/Linkedlist/src/LC_203)  
 [328. Odd Even Linked List](https://github.com/Ryannx/Leetcode/tree/master/Linkedlist/src/LC_328)  
 
-## [Greedy](https://github.com/Ryannx/Leetcode/tree/master/Greedy)
+## [Greedy](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src)
 [300. Longest Increasing Subsequence](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src/LC_300)  
-[1178. Number of Valid Words for Each Puzzle](https://github.com/Ryannx/Leetcode/tree/master/Bit/src/LC_1178)
+[1178. Number of Valid Words for Each Puzzle](https://github.com/Ryannx/Leetcode/tree/master/Bit/src/LC_1178)  
+[1217. Minimum Cost to Move Chips to The Same Position](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src/LC_1217)  
 
 ## [Combination](https://github.com/Ryannx/Leetcode/tree/master/Combination/src)
 [1286. Iterator for Combination](https://github.com/Ryannx/Leetcode/tree/master/Combination/src/LC_1286)  
