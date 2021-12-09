@@ -77,6 +77,7 @@
 [1032. Stream of Characters](https://github.com/Ryannx/Leetcode/tree/master/Trie/src/LC_1032)  
 
 ## [Bit](https://github.com/Ryannx/Leetcode/tree/master/Bit/src)
+[320. Generalized Abbreviation](https://github.com/Ryannx/Leetcode/tree/master/Bit/src/LC_320)  
 [411. Minimum Unique Word Abbreviation](https://github.com/Ryannx/Leetcode/tree/master/Bit/src/LC_411)  
 [461. Hamming Distance](https://github.com/Ryannx/Leetcode/tree/master/Bit/src/LC_461)  
 [1178. Number of Valid Words for Each Puzzle](https://github.com/Ryannx/Leetcode/tree/master/Bit/src/LC_1178)  
@@ -105,4 +106,3 @@
 ## [UnionFind](https://github.com/Ryannx/Leetcode/tree/master/UnionFind/src)
 [952. Largest Component Size by Common Factor](https://github.com/Ryannx/Leetcode/tree/master/UnionFind/src/LC_952)  
 [1627. Graph Connectivity With Threshold](https://github.com/Ryannx/Leetcode/tree/master/UnionFind/src/LC_1627)
-
