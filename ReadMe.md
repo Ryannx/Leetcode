@@ -28,6 +28,7 @@
 [403. Frog Jump](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_403)  
 [488. Zuma Game](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_488)  
 [797. All Paths From Source to Target](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_797)  
+[1306. Jump Game III](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_1306)  
 
 
 ## [DP](https://github.com/Ryannx/Leetcode/tree/master/DP/src)
