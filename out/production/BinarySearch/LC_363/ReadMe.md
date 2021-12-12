@@ -4,4 +4,4 @@
 presum[i] - presum[j] <= k, presum[i] - presum[j]的最大值，进一步转化为
 presum[j] >= presum[i] - k条件下，presum[j]的最小值，如果使用有序容器查找presum[j]，
 时间复杂度可以为O(logn)，n为投影方向的长度，所以在选择投影方向时，选择往 row 和 col中大的方向
-投影。
+投影。即将matrix进行转置处理，然后在call函数。
