@@ -2,6 +2,7 @@
 
 ## [BFS](https://github.com/Ryannx/Leetcode/tree/master/BFS/src)
 [127. Word Ladder](https://github.com/Ryannx/Leetcode/tree/master/BFS/src/LC_127)  
+[200. Number of Islands](https://github.com/Ryannx/Leetcode/tree/master/BFS/src/LC_200)  
 [286. Walls and Gates](https://github.com/Ryannx/Leetcode/tree/master/BFS/src/LC_286)  
 [317. Shortest Distance from All Buildings](https://github.com/Ryannx/Leetcode/tree/master/BFS/src/LC_317)  
 [339. Nested List Weight Sum](https://github.com/Ryannx/Leetcode/tree/master/BFS/src/LC_339)  
@@ -27,6 +28,8 @@
 [337. House Robber III](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_337)  
 [403. Frog Jump](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_403)  
 [488. Zuma Game](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_488)  
+[694. Number of Distinct Islands](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_694)  
+[695. Max Area of Island](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_695)  
 [797. All Paths From Source to Target](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_797)  
 [1306. Jump Game III](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_1306)  
 
@@ -113,3 +116,4 @@
 
 ## [TwoPointer](https://github.com/Ryannx/Leetcode/tree/master/TwoPointer/src)
 [408. Valid Word Abbreviation](https://github.com/Ryannx/Leetcode/tree/master/TwoPointer/src/LC_408)  
+[1446. Consecutive Characters](https://github.com/Ryannx/Leetcode/tree/master/TwoPointer/src/LC_1446)  
