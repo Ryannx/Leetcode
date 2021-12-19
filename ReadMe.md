@@ -31,8 +31,7 @@
 [694. Number of Distinct Islands](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_694)  
 [695. Max Area of Island](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_695)  
 [797. All Paths From Source to Target](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_797)  
-[1306. Jump Game III](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_1306)  
-
+[1306. Jump Game III](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_1306)
 
 ## [DP](https://github.com/Ryannx/Leetcode/tree/master/DP/src)
 [53. Maximum Subarray](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_53)  
