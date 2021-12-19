@@ -14,6 +14,8 @@
 [game](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/GAME)  
 [10. Regular Expression Matching](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_10)  
 [22. Generate Parentheses](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_22)  
+[51. N-Queens](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_51)  
+[52. N-Queens II](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_52)  
 [72. Edit Distance](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_72)  
 [79. Word Search](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_79)  
 [93. Restore IP Addresses](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_93)  
