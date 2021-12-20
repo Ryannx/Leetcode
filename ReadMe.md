@@ -33,6 +33,7 @@
 [694. Number of Distinct Islands](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_694)  
 [695. Max Area of Island](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_695)  
 [797. All Paths From Source to Target](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_797)  
+[902. Numbers At Most N Given Digit Set](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_902)  
 [1306. Jump Game III](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_1306)
 
 ## [DP](https://github.com/Ryannx/Leetcode/tree/master/DP/src)
@@ -61,6 +62,7 @@
 [84. Largest Rectangle in Histogram](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_84)  
 [85. Maximal Rectangle](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_85)  
 [32. Longest Valid Parentheses](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_32)  
+[394. Decode String](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_394)  
 [496. Next Greater Element I](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_496)  
 [503. Next Greater Element II](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_503)  
 [739. Daily Temperatures](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_739)  
