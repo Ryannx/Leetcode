@@ -64,6 +64,7 @@
 [84. Largest Rectangle in Histogram](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_84)  
 [85. Maximal Rectangle](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_85)  
 [32. Longest Valid Parentheses](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_32)  
+[227. Basic Calculator II](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_227)  
 [394. Decode String](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_394)  
 [496. Next Greater Element I](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_496)  
 [503. Next Greater Element II](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_503)  
@@ -91,12 +92,14 @@
 [1032. Stream of Characters](https://github.com/Ryannx/Leetcode/tree/master/Trie/src/LC_1032)  
 
 ## [Bit](https://github.com/Ryannx/Leetcode/tree/master/Bit/src)
+[231. Power of Two](https://github.com/Ryannx/Leetcode/tree/master/Bit/src/LC_231)  
 [320. Generalized Abbreviation](https://github.com/Ryannx/Leetcode/tree/master/Bit/src/LC_320)  
 [411. Minimum Unique Word Abbreviation](https://github.com/Ryannx/Leetcode/tree/master/Bit/src/LC_411)  
 [461. Hamming Distance](https://github.com/Ryannx/Leetcode/tree/master/Bit/src/LC_461)  
 [1178. Number of Valid Words for Each Puzzle](https://github.com/Ryannx/Leetcode/tree/master/Bit/src/LC_1178)  
 
 ## [LinkedList](https://github.com/Ryannx/Leetcode/tree/master/Linkedlist)
+[143. Reorder List](https://github.com/Ryannx/Leetcode/tree/master/Linkedlist/src/LC_143)  
 [147. Insertion Sort List](https://github.com/Ryannx/Leetcode/tree/master/Linkedlist/src/LC_147)  
 [203. Remove Linked List Elements](https://github.com/Ryannx/Leetcode/tree/master/Linkedlist/src/LC_203)  
 [328. Odd Even Linked List](https://github.com/Ryannx/Leetcode/tree/master/Linkedlist/src/LC_328)  
@@ -139,3 +142,6 @@
 
 ## [Graph](https://github.com/Ryannx/Leetcode/tree/master/Graph/src)
 [310. Minimum Height Trees](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_310)  
+
+## [QuickSelect](https://github.com/Ryannx/Leetcode/tree/master/QuickSelect/src)
+[215. Kth Largest Element in an Array](https://github.com/Ryannx/Leetcode/tree/master/QuickSelect/src/LC_215)  
