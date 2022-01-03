@@ -78,14 +78,17 @@
 [96. Unique Binary Search Trees](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_96)  
 [98. Validate Binary Search Tree](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_98)  
 [99. Recover Binary Search Tree](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_99)  
+[101. Symmetric Tree](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_101)  
 [106. Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_106)  
 [124. Binary Tree Maximum Path Sum](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_124)  
 [222. Count Complete Tree Nodes](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_222)  
+[297. Serialize and Deserialize Binary Tree](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_297)  
 [449. Serialize and Deserialize BST](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_449)  
 [450. Delete Node in a BST](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_450)  
 [563. Binary Tree Tilt](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_563)  
 [894. All Possible Full Binary Trees](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_894)  
 [938. Range Sum of BST](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_938)  
+[1026. Maximum Difference Between Node and Ancestor](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_1026)  
 [Library](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/Library)  
 
 ## [Trie](https://github.com/Ryannx/Leetcode/tree/master/Trie/src)
@@ -145,3 +148,8 @@
 
 ## [QuickSelect](https://github.com/Ryannx/Leetcode/tree/master/QuickSelect/src)
 [215. Kth Largest Element in an Array](https://github.com/Ryannx/Leetcode/tree/master/QuickSelect/src/LC_215)  
+
+## [Heap](https://github.com/Ryannx/Leetcode/tree/master/Heap/src)
+[295. Find Median from Data Stream](https://github.com/Ryannx/Leetcode/tree/master/Heap/src/LC_295)  
+[347. Top K Frequent Elements](https://github.com/Ryannx/Leetcode/tree/master/Heap/src/LC_347)  
+[703. Kth Largest Element in a Stream](https://github.com/Ryannx/Leetcode/tree/master/Heap/src/LC_703)  
