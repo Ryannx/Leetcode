@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Graph/Graph.iml" filepath="$PROJECT_DIR$/Graph/Graph.iml" />
       <module fileurl="file://$PROJECT_DIR$/Greedy/Greedy.iml" filepath="$PROJECT_DIR$/Greedy/Greedy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap/Heap.iml" filepath="$PROJECT_DIR$/Heap/Heap.iml" />
       <module fileurl="file://$PROJECT_DIR$/IndexingSort/IndexingSort.iml" filepath="$PROJECT_DIR$/IndexingSort/IndexingSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interval/Interval.iml" filepath="$PROJECT_DIR$/Interval/Interval.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Leetcode.iml" filepath="$PROJECT_DIR$/.idea/Leetcode.iml" />
