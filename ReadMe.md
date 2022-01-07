@@ -137,6 +137,7 @@
 
 ## [TwoPointer](https://github.com/Ryannx/Leetcode/tree/master/TwoPointer/src)
 [11. Container With Most Water](https://github.com/Ryannx/Leetcode/tree/master/TwoPointer/src/LC_11)  
+[165. Compare Version Numbers](https://github.com/Ryannx/Leetcode/tree/master/TwoPointer/src/LC_165)  
 [408. Valid Word Abbreviation](https://github.com/Ryannx/Leetcode/tree/master/TwoPointer/src/LC_408)  
 [1446. Consecutive Characters](https://github.com/Ryannx/Leetcode/tree/master/TwoPointer/src/LC_1446)  
 
@@ -149,6 +150,7 @@
 [452. Minimum Number of Arrows to Burst Balloons](https://github.com/Ryannx/Leetcode/tree/master/Interval/src/LC_452)  
 [759. Employee Free Time](https://github.com/Ryannx/Leetcode/tree/master/Interval/src/LC_759)  
 [986. Interval List Intersections](https://github.com/Ryannx/Leetcode/tree/master/Interval/src/LC_986)  
+[1094. Car Pooling](https://github.com/Ryannx/Leetcode/tree/master/Interval/src/LC_1094)  
 
 ## [Graph](https://github.com/Ryannx/Leetcode/tree/master/Graph/src)
 [310. Minimum Height Trees](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_310)  
@@ -166,3 +168,7 @@
 
 ## [BucketSort](https://github.com/Ryannx/Leetcode/tree/master/BucketSort/src)
 [1010. Pairs of Songs With Total Durations Divisible by 60](https://github.com/Ryannx/Leetcode/tree/master/BucketSort/src/LC_1010)  
+
+## [Other](https://github.com/Ryannx/Leetcode/tree/master/Other/src)
+[240. Search a 2D Matrix II](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_240)  
+[RandomSampling](https://github.com/Ryannx/Leetcode/tree/master/Other/src/RandomSampling/LC_382)  
