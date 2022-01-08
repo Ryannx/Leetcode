@@ -59,6 +59,7 @@
 [790. Domino and Tromino Tiling](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_790)  
 [940. Distinct Subsequences II](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_940)  
 [1594. Maximum Non Negative Product in a Matrix](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_1594)  
+[1937. Maximum Number of Points with Cost](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_1937)  
 
 ## [Stack](https://github.com/Ryannx/Leetcode/tree/master/Stack/src)
 [84. Largest Rectangle in Histogram](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_84)  
@@ -88,6 +89,7 @@
 [298. Binary Tree Longest Consecutive Sequence](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_298)  
 [314. Binary Tree Vertical Order Traversal](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_314)  
 [333. Largest BST Subtree](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_333)  
+[366. Find Leaves of Binary Tree](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_366)  
 [449. Serialize and Deserialize BST](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_449)  
 [450. Delete Node in a BST](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_450)  
 [563. Binary Tree Tilt](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_563)  
