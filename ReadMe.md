@@ -174,5 +174,5 @@
 [1010. Pairs of Songs With Total Durations Divisible by 60](https://github.com/Ryannx/Leetcode/tree/master/BucketSort/src/LC_1010)  
 
 ## [Other](https://github.com/Ryannx/Leetcode/tree/master/Other/src)
-[240. Search a 2D Matrix II](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_240)  
+[240. Search a 2D Matrix II](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_240)
 [RandomSampling](https://github.com/Ryannx/Leetcode/tree/master/Other/src/RandomSampling/LC_382)  
