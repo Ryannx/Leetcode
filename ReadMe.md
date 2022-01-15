@@ -64,6 +64,11 @@
 [1594. Maximum Non Negative Product in a Matrix](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_1594)  
 [1937. Maximum Number of Points with Cost](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_1937)  
 
+## [Design](https://github.com/Ryannx/Leetcode/tree/master/Design/src)
+[1146. Snapshot Array](https://github.com/Ryannx/Leetcode/tree/master/Design/src/LC_1146)  
+[2034. Stock Price Fluctuation](https://github.com/Ryannx/Leetcode/tree/master/Design/src/LC_2034)  
+[2013. Detect Squares](https://github.com/Ryannx/Leetcode/tree/master/Design/src/LC_2013)  
+
 ## [Stack](https://github.com/Ryannx/Leetcode/tree/master/Stack/src)
 [84. Largest Rectangle in Histogram](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_84)  
 [85. Maximal Rectangle](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_85)  
@@ -180,6 +185,7 @@
 [43. Multiply Strings](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_43)  
 [240. Search a 2D Matrix II](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_240)  
 [843. Guess the Word](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_843)  
+[954. Array of Doubled Pairs](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_954)  
 [1041. Robot Bounded In Circle](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_1041)  
 [2007. Find Original Array From Doubled Array](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_2007)  
 [RandomSampling](https://github.com/Ryannx/Leetcode/tree/master/Other/src/RandomSampling/LC_382)  
