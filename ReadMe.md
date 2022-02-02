@@ -105,6 +105,8 @@
 [894. All Possible Full Binary Trees](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_894)  
 [938. Range Sum of BST](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_938)  
 [1026. Maximum Difference Between Node and Ancestor](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_1026)  
+[1123. Lowest Common Ancestor of Deepest Leaves](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_1123)  
+[2096. Step-By-Step Directions From a Binary Tree Node to Another](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_2096)  
 [Library](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/Library)  
 
 ## [Trie](https://github.com/Ryannx/Leetcode/tree/master/Trie/src)
@@ -166,6 +168,7 @@
 
 ## [Graph](https://github.com/Ryannx/Leetcode/tree/master/Graph/src)
 [310. Minimum Height Trees](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_310)  
+[1345. Jump Game IV](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_1345)  
 
 ## [QuickSelect](https://github.com/Ryannx/Leetcode/tree/master/QuickSelect/src)
 [215. Kth Largest Element in an Array](https://github.com/Ryannx/Leetcode/tree/master/QuickSelect/src/LC_215)  
@@ -184,6 +187,8 @@
 ## [Other](https://github.com/Ryannx/Leetcode/tree/master/Other/src)
 [43. Multiply Strings](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_43)  
 [240. Search a 2D Matrix II](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_240)  
+[384. Shuffle an Array](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_384)  
+[418. Sentence Screen Fitting](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_418)  
 [843. Guess the Word](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_843)  
 [954. Array of Doubled Pairs](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_954)  
 [1041. Robot Bounded In Circle](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_1041)  
