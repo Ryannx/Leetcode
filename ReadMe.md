@@ -73,6 +73,7 @@
 [84. Largest Rectangle in Histogram](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_84)  
 [85. Maximal Rectangle](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_85)  
 [32. Longest Valid Parentheses](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_32)  
+[150. Evaluate Reverse Polish Notation](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_150)  
 [227. Basic Calculator II](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_227)  
 [394. Decode String](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_394)  
 [496. Next Greater Element I](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_496)  
@@ -153,6 +154,7 @@
 [68. Text Justification](https://github.com/Ryannx/Leetcode/tree/master/TwoPointer/src/LC_68)  
 [165. Compare Version Numbers](https://github.com/Ryannx/Leetcode/tree/master/TwoPointer/src/LC_165)  
 [408. Valid Word Abbreviation](https://github.com/Ryannx/Leetcode/tree/master/TwoPointer/src/LC_408)  
+[777. Swap Adjacent in LR String](https://github.com/Ryannx/Leetcode/tree/master/TwoPointer/src/LC_777)  
 [1446. Consecutive Characters](https://github.com/Ryannx/Leetcode/tree/master/TwoPointer/src/LC_1446)  
 
 ## [Interval](https://github.com/Ryannx/Leetcode/tree/master/Interval/src)
@@ -184,13 +186,21 @@
 ## [BucketSort](https://github.com/Ryannx/Leetcode/tree/master/BucketSort/src)
 [1010. Pairs of Songs With Total Durations Divisible by 60](https://github.com/Ryannx/Leetcode/tree/master/BucketSort/src/LC_1010)  
 
+## [SlidingWindow](https://github.com/Ryannx/Leetcode/tree/master/SlidingWindow/src)
+[438. Find All Anagrams in a String](https://github.com/Ryannx/Leetcode/tree/master/SlidingWindow/src/LC_438)  
+
 ## [Other](https://github.com/Ryannx/Leetcode/tree/master/Other/src)
 [43. Multiply Strings](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_43)  
 [240. Search a 2D Matrix II](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_240)  
 [384. Shuffle an Array](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_384)  
 [418. Sentence Screen Fitting](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_418)  
+<<<<<<< HEAD
+[454. 4Sum II](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_454)  
+=======
+>>>>>>> d156a3eca4eeba36809bb1f6b1e513cce9c0546a
 [843. Guess the Word](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_843)  
 [954. Array of Doubled Pairs](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_954)  
 [1041. Robot Bounded In Circle](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_1041)  
+[1218. Longest Arithmetic Subsequence of Given Difference](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_1218)  
 [2007. Find Original Array From Doubled Array](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_2007)  
 [RandomSampling](https://github.com/Ryannx/Leetcode/tree/master/Other/src/RandomSampling/LC_382)  
