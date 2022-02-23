@@ -65,6 +65,7 @@
 [1937. Maximum Number of Points with Cost](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_1937)  
 
 ## [Design](https://github.com/Ryannx/Leetcode/tree/master/Design/src)
+[631. Design Excel Sum Formula](https://github.com/Ryannx/Leetcode/tree/master/Design/src/LC_631)  
 [1146. Snapshot Array](https://github.com/Ryannx/Leetcode/tree/master/Design/src/LC_1146)  
 [2034. Stock Price Fluctuation](https://github.com/Ryannx/Leetcode/tree/master/Design/src/LC_2034)  
 [2013. Detect Squares](https://github.com/Ryannx/Leetcode/tree/master/Design/src/LC_2013)  
@@ -169,8 +170,13 @@
 [1094. Car Pooling](https://github.com/Ryannx/Leetcode/tree/master/Interval/src/LC_1094)  
 
 ## [Graph](https://github.com/Ryannx/Leetcode/tree/master/Graph/src)
+[207. Course Schedule](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_207)  
+[269. Alien Dictionary](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_269)  
 [310. Minimum Height Trees](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_310)  
+[444. Sequence Reconstruction](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_444)  
 [1345. Jump Game IV](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_1345)  
+[2115. Find All Possible Recipes from Given Supplies](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_2115)  
+[2127. Maximum Employees to Be Invited to a Meeting](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_2127)  
 
 ## [QuickSelect](https://github.com/Ryannx/Leetcode/tree/master/QuickSelect/src)
 [215. Kth Largest Element in an Array](https://github.com/Ryannx/Leetcode/tree/master/QuickSelect/src/LC_215)  
@@ -194,10 +200,8 @@
 [240. Search a 2D Matrix II](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_240)  
 [384. Shuffle an Array](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_384)  
 [418. Sentence Screen Fitting](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_418)  
-<<<<<<< HEAD
 [454. 4Sum II](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_454)  
-=======
->>>>>>> d156a3eca4eeba36809bb1f6b1e513cce9c0546a
+[539. Minimum Time Difference](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_539)  
 [843. Guess the Word](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_843)  
 [954. Array of Doubled Pairs](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_954)  
 [1041. Robot Bounded In Circle](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_1041)  
