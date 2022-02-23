@@ -1,0 +1,4 @@
+### 解题思路：
+通过读题发现只有在call sum时才会出现sum formula，所以formula更新新的数值只在sum进行。set中只会清空当前cell的formula，
+除此之外，我们还需要一个单独的数据结构记录对应cell的formula。get需要返回当前cell的值，如果当前cell有formula则需要再次
+检查formula。那么sum不妨直接直接call get得到当前cell的val。
