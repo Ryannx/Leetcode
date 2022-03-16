@@ -1,0 +1,6 @@
+### 解题思路：
+本题要判断给出的subsequence是否可以确定唯一的supersequence，由于subsequence中每个元素的相对位置都是确定的，并且在本题中
+都是合法的，所以可以推断出这是一个拓扑问题，根据给出的subsequence是否可以得出唯一的拓扑排序nums。如果想要确定唯一的拓扑结果
+那么nums的顺序必须是确定的，所以在由subsequence建的graph中，入度为0的点一定是nums中的首元素；并且在对graph剥洋葱的过程中
+，没一层一定只有一个入度为0的点，而且遍历的顺序一定与nums中元素排列的顺序相同。只有满足这两个条件，并且queue为空的时候，nums
+也遍历完，才会return true；否则都为false。
