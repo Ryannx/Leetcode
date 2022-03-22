@@ -38,6 +38,12 @@
 [902. Numbers At Most N Given Digit Set](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_902)  
 [1306. Jump Game III](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_1306)
 
+## [Dijkstra](https://github.com/Ryannx/Leetcode/tree/master/Dijkstra/src)
+[407. Trapping Rain Water II](https://github.com/Ryannx/Leetcode/tree/master/Dijkstra/src/LC_407)  
+[505. The Maze II](https://github.com/Ryannx/Leetcode/tree/master/Dijkstra/src/LC_505)  
+[743. Network Delay Time](https://github.com/Ryannx/Leetcode/tree/master/Dijkstra/src/LC_743)  
+[778. Swim in Rising Water](https://github.com/Ryannx/Leetcode/tree/master/Dijkstra/src/LC_778)  
+
 ## [DP](https://github.com/Ryannx/Leetcode/tree/master/DP/src)
 [53. Maximum Subarray](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_53)  
 [62. Unique Paths](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_62)  
