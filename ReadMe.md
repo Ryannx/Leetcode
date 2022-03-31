@@ -110,6 +110,7 @@
 [449. Serialize and Deserialize BST](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_449)  
 [450. Delete Node in a BST](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_450)  
 [563. Binary Tree Tilt](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_563)  
+[652. Find Duplicate Subtrees](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_652)  
 [894. All Possible Full Binary Trees](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_894)  
 [938. Range Sum of BST](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_938)  
 [1026. Maximum Difference Between Node and Ancestor](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_1026)  
@@ -133,21 +134,28 @@
 [203. Remove Linked List Elements](https://github.com/Ryannx/Leetcode/tree/master/Linkedlist/src/LC_203)  
 [328. Odd Even Linked List](https://github.com/Ryannx/Leetcode/tree/master/Linkedlist/src/LC_328)  
 
+
 ## [Greedy](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src)
 [300. Longest Increasing Subsequence](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src/LC_300)  
+[991. Broken Calculator](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src/LC_991)  
+[1029. Two City Scheduling](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src/LC_1029)  
 [1178. Number of Valid Words for Each Puzzle](https://github.com/Ryannx/Leetcode/tree/master/Bit/src/LC_1178)  
 [1217. Minimum Cost to Move Chips to The Same Position](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src/LC_1217)  
+[1663. Smallest String With A Given Numeric Value](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src/LC_1663)  
 
 ## [Combination](https://github.com/Ryannx/Leetcode/tree/master/Combination/src)
 [1286. Iterator for Combination](https://github.com/Ryannx/Leetcode/tree/master/Combination/src/LC_1286)  
 
 ## [Binary Search](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src)
+[81. Search in Rotated Sorted Array II](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_81)  
+[287. Find the Duplicate Number](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_287)  
 [363. Max Sum of Rectangle No Larger Than K](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_363)  
 [378. Kth Smallest Element in a Sorted Matrix](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_378)  
 [540. Single Element in a Sorted Array](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_540)  
 [668. Kth Smallest Number in Multiplication Table](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_668)  
 [878. Nth Magical Number](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_878)  
 [1201. Ugly Number III](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_1201)  
+[1337. The K Weakest Rows in a Matrix](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_1337)  
 
 ## [IndexingSort](https://github.com/Ryannx/Leetcode/tree/master/IndexingSort/src)
 [448. Find All Numbers Disappeared in an Array](https://github.com/Ryannx/Leetcode/tree/master/IndexingSort/src/LC_448)
