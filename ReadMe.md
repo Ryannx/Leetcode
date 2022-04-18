@@ -75,6 +75,7 @@
 [1146. Snapshot Array](https://github.com/Ryannx/Leetcode/tree/master/Design/src/LC_1146)  
 [2034. Stock Price Fluctuation](https://github.com/Ryannx/Leetcode/tree/master/Design/src/LC_2034)  
 [2013. Detect Squares](https://github.com/Ryannx/Leetcode/tree/master/Design/src/LC_2013)  
+[2227. Encrypt and Decrypt Strings](https://github.com/Ryannx/Leetcode/tree/master/Design/src/LC_2227)  
 
 ## [Stack](https://github.com/Ryannx/Leetcode/tree/master/Stack/src)
 [84. Largest Rectangle in Histogram](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_84)  
@@ -100,6 +101,7 @@
 [106. Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_106)  
 [124. Binary Tree Maximum Path Sum](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_124)  
 [222. Count Complete Tree Nodes](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_222)  
+[230. Kth Smallest Element in a BST](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_230)  
 [250. Count Univalue Subtrees](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_250)  
 [285. Inorder Successor in BST](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_285)  
 [297. Serialize and Deserialize Binary Tree](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_297)  
@@ -109,8 +111,10 @@
 [366. Find Leaves of Binary Tree](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_366)  
 [449. Serialize and Deserialize BST](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_449)  
 [450. Delete Node in a BST](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_450)  
+[538. Convert BST to Greater Tree](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_538)  
 [563. Binary Tree Tilt](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_563)  
 [652. Find Duplicate Subtrees](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_652)  
+[669. Trim a Binary Search Tree](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_669)  
 [894. All Possible Full Binary Trees](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_894)  
 [938. Range Sum of BST](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_938)  
 [1026. Maximum Difference Between Node and Ancestor](https://github.com/Ryannx/Leetcode/tree/master/Tree/src/LC_1026)  
@@ -133,6 +137,7 @@
 [147. Insertion Sort List](https://github.com/Ryannx/Leetcode/tree/master/Linkedlist/src/LC_147)  
 [203. Remove Linked List Elements](https://github.com/Ryannx/Leetcode/tree/master/Linkedlist/src/LC_203)  
 [328. Odd Even Linked List](https://github.com/Ryannx/Leetcode/tree/master/Linkedlist/src/LC_328)  
+[1721. Swapping Nodes in a Linked List](https://github.com/Ryannx/Leetcode/tree/master/Linkedlist/src/LC_1721)  
 
 
 ## [Greedy](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src)
@@ -151,11 +156,14 @@
 [287. Find the Duplicate Number](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_287)  
 [363. Max Sum of Rectangle No Larger Than K](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_363)  
 [378. Kth Smallest Element in a Sorted Matrix](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_378)  
+[410. Split Array Largest Sum](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_410)  
+[505. The Maze II](https://github.com/Ryannx/Leetcode/tree/master/Dijkstra/src/LC_505)  
 [540. Single Element in a Sorted Array](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_540)  
 [668. Kth Smallest Number in Multiplication Table](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_668)  
 [878. Nth Magical Number](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_878)  
 [1201. Ugly Number III](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_1201)  
 [1337. The K Weakest Rows in a Matrix](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_1337)  
+[1891. Cutting Ribbons](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_1891)  
 
 ## [IndexingSort](https://github.com/Ryannx/Leetcode/tree/master/IndexingSort/src)
 [448. Find All Numbers Disappeared in an Array](https://github.com/Ryannx/Leetcode/tree/master/IndexingSort/src/LC_448)
@@ -196,6 +204,10 @@
 [215. Kth Largest Element in an Array](https://github.com/Ryannx/Leetcode/tree/master/QuickSelect/src/LC_215)  
 [973. K Closest Points to Origin](https://github.com/Ryannx/Leetcode/tree/master/QuickSelect/src/LC_973)  
 
+## [RollingHash](https://github.com/Ryannx/Leetcode/tree/master/RollingHash/src)
+[1044. Longest Duplicate Substring](https://github.com/Ryannx/Leetcode/tree/master/RollingHash/src/LC_1044)  
+[2223. Sum of Scores of Built Strings](https://github.com/Ryannx/Leetcode/tree/master/RollingHash/src/LC_2223)  
+
 ## [Heap](https://github.com/Ryannx/Leetcode/tree/master/Heap/src)
 [272. Closest Binary Search Tree Value II](https://github.com/Ryannx/Leetcode/tree/master/Heap/src/LC_272)  
 [295. Find Median from Data Stream](https://github.com/Ryannx/Leetcode/tree/master/Heap/src/LC_295)  
@@ -210,6 +222,7 @@
 [438. Find All Anagrams in a String](https://github.com/Ryannx/Leetcode/tree/master/SlidingWindow/src/LC_438)  
 
 ## [Other](https://github.com/Ryannx/Leetcode/tree/master/Other/src)
+[31. Next Permutation](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_31)  
 [43. Multiply Strings](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_43)  
 [240. Search a 2D Matrix II](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_240)  
 [384. Shuffle an Array](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_384)  
@@ -217,6 +230,7 @@
 [454. 4Sum II](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_454)  
 [539. Minimum Time Difference](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_539)  
 [843. Guess the Word](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_843)  
+[923. 3Sum With Multiplicity](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_923)  
 [954. Array of Doubled Pairs](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_954)  
 [1041. Robot Bounded In Circle](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_1041)  
 [1218. Longest Arithmetic Subsequence of Given Difference](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_1218)  
