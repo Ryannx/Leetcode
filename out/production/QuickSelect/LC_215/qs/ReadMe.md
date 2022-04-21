@@ -5,7 +5,7 @@
 > 　 　i　　t　 j
 
 s表示小于pivot元素，o表示相等，x表示待处理，l表示大于pivot元素；如果t小于pivot,swap i 和 t，同时t++ i++,相等则t++，
-小于则swap t j并且j--；最终，大于 等于 小于pivot的元素被分为三堆；
+大于则swap t j并且j--；最终，大于 等于 小于pivot的元素被分为三堆；
 > S S O O O O O L L  
 > 　 　i　　　　 j
 
