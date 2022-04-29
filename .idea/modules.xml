@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/Interval/Interval.iml" filepath="$PROJECT_DIR$/Interval/Interval.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Leetcode.iml" filepath="$PROJECT_DIR$/.idea/Leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linkedlist/Linkedlist.iml" filepath="$PROJECT_DIR$/Linkedlist/Linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MST/MST.iml" filepath="$PROJECT_DIR$/MST/MST.iml" />
       <module fileurl="file://$PROJECT_DIR$/Other/Other.iml" filepath="$PROJECT_DIR$/Other/Other.iml" />
       <module fileurl="file://$PROJECT_DIR$/QuickSelect/QuickSelect.iml" filepath="$PROJECT_DIR$/QuickSelect/QuickSelect.iml" />
       <module fileurl="file://$PROJECT_DIR$/RollingHash/RollingHash.iml" filepath="$PROJECT_DIR$/RollingHash/RollingHash.iml" />
