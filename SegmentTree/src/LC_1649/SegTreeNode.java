@@ -1,10 +1,9 @@
-package LC_307;
+package LC_1649;
 
 public class SegTreeNode {
 
-    private SegTreeNode left;
-    private SegTreeNode right;
-    private int info;
+    private SegTreeNode left, right;
+    private int amount;
     private int start, end;
 
     public SegTreeNode(int start, int end) {
@@ -12,46 +11,45 @@ public class SegTreeNode {
         this.end = end;
     }
 
-    public void initial(SegTreeNode node, int start, int end, int[] nums) {
+    public void initial(SegTreeNode node, int start, int end) {
 
         if (start == end) {
-            node.info = nums[start];
             return;
         }
-
         int mid = start + (end - start) / 2;
         if (node.left == null) {
             node.left = new SegTreeNode(start, mid);
             node.right = new SegTreeNode(mid + 1, end);
         }
-        initial(node.left, start, mid, nums);
-        initial(node.right, mid + 1, end, nums);
-        node.info = node.left.info + node.right.info;
+        initial(node.left, start, mid);
+        initial(node.right, mid + 1, end);
+        node.amount = node.left.amount + node.right.amount;
     }
 
-    public void updateSingle(SegTreeNode node, int idx, int info) {
+    public void singleUpdate(SegTreeNode node, int idx, int val) {
 
         if (idx < node.start || idx > node.end) {
             return;
         }
         if (node.start == node.end) {
-            node.info = info;
+            node.amount += val;
             return;
         }
 
-        updateSingle(node.left, idx, info);
-        updateSingle(node.right, idx, info);
-        node.info = node.left.info + node.right.info;
+        singleUpdate(node.left, idx, val);
+        singleUpdate(node.right, idx, val);
+        node.amount = node.left.amount + node.right.amount;
     }
 
     public int queryRange(SegTreeNode node, int start, int end) {
 
-        if (start > node.end || end < node.start) {
+        if (end < node.start || start > node.end) {
             return 0;
         }
-        if (node.start >= start && node.end <= end) {
-            return node.info;
+        if (start <= node.start && node.end <= end) {
+            return node.amount;
         }
+
         return queryRange(node.left, start, end) + queryRange(node.right, start, end);
     }
 }
