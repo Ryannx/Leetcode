@@ -52,7 +52,6 @@ public class SegTreeNode {
         if (node.start >= start && node.end <= end) {
             return node.info;
         }
-        int mid = start + (end - start) / 2;
         return queryRange(node.left, start, end) + queryRange(node.right, start, end);
     }
 }
