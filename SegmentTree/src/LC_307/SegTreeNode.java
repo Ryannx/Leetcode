@@ -1,6 +1,7 @@
 package LC_307;
 
 class SegTreeNode {
+
     private SegTreeNode left;
     private SegTreeNode right;
     private int info;
