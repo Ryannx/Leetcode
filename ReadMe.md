@@ -71,6 +71,8 @@
 [1937. Maximum Number of Points with Cost](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_1937)  
 
 ## [Design](https://github.com/Ryannx/Leetcode/tree/master/Design/src)
+[173. Binary Search Tree Iterator](https://github.com/Ryannx/Leetcode/tree/master/Design/src/LC_173)  
+[535. Encode and Decode TinyURL](https://github.com/Ryannx/Leetcode/tree/master/Design/src/LC_535)  
 [631. Design Excel Sum Formula](https://github.com/Ryannx/Leetcode/tree/master/Design/src/LC_631)  
 [1146. Snapshot Array](https://github.com/Ryannx/Leetcode/tree/master/Design/src/LC_1146)  
 [2034. Stock Price Fluctuation](https://github.com/Ryannx/Leetcode/tree/master/Design/src/LC_2034)  
@@ -159,6 +161,7 @@
 [410. Split Array Largest Sum](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_410)  
 [505. The Maze II](https://github.com/Ryannx/Leetcode/tree/master/Dijkstra/src/LC_505)  
 [540. Single Element in a Sorted Array](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_540)  
+[581. Shortest Unsorted Continuous Subarray](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_581)  
 [668. Kth Smallest Number in Multiplication Table](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_668)  
 [878. Nth Magical Number](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_878)  
 [1201. Ugly Number III](https://github.com/Ryannx/Leetcode/tree/master/BinarySearch/src/LC_1201)  
@@ -171,12 +174,14 @@
 ## [UnionFind](https://github.com/Ryannx/Leetcode/tree/master/UnionFind/src)
 [952. Largest Component Size by Common Factor](https://github.com/Ryannx/Leetcode/tree/master/UnionFind/src/LC_952)  
 [1627. Graph Connectivity With Threshold](https://github.com/Ryannx/Leetcode/tree/master/UnionFind/src/LC_1627)
+[1631. Path With Minimum Effort](https://github.com/Ryannx/Leetcode/tree/master/UnionFind/src/LC_1631)  
 
 ## [TwoPointer](https://github.com/Ryannx/Leetcode/tree/master/TwoPointer/src)
 [11. Container With Most Water](https://github.com/Ryannx/Leetcode/tree/master/TwoPointer/src/LC_11)  
 [68. Text Justification](https://github.com/Ryannx/Leetcode/tree/master/TwoPointer/src/LC_68)  
 [165. Compare Version Numbers](https://github.com/Ryannx/Leetcode/tree/master/TwoPointer/src/LC_165)  
 [408. Valid Word Abbreviation](https://github.com/Ryannx/Leetcode/tree/master/TwoPointer/src/LC_408)  
+[581. Shortest Unsorted Continuous Subarray](https://github.com/Ryannx/Leetcode/tree/master/TwoPointer/src/LC_581)  
 [777. Swap Adjacent in LR String](https://github.com/Ryannx/Leetcode/tree/master/TwoPointer/src/LC_777)  
 [1446. Consecutive Characters](https://github.com/Ryannx/Leetcode/tree/master/TwoPointer/src/LC_1446)  
 
@@ -196,6 +201,7 @@
 [269. Alien Dictionary](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_269)  
 [310. Minimum Height Trees](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_310)  
 [444. Sequence Reconstruction](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_444)
+[785. Is Graph Bipartite?](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_785)  
 [1345. Jump Game IV](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_1345)  
 [2115. Find All Possible Recipes from Given Supplies](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_2115)  
 [2127. Maximum Employees to Be Invited to a Meeting](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_2127)  
@@ -205,7 +211,9 @@
 [973. K Closest Points to Origin](https://github.com/Ryannx/Leetcode/tree/master/QuickSelect/src/LC_973)  
 
 ## [RollingHash](https://github.com/Ryannx/Leetcode/tree/master/RollingHash/src)
+[844. Backspace String Compare](https://github.com/Ryannx/Leetcode/tree/master/RollingHash/src/LC_844)  
 [1044. Longest Duplicate Substring](https://github.com/Ryannx/Leetcode/tree/master/RollingHash/src/LC_1044)  
+[1062. Longest Repeating Substring](https://github.com/Ryannx/Leetcode/tree/master/RollingHash/src/LC_1062)  
 [2223. Sum of Scores of Built Strings](https://github.com/Ryannx/Leetcode/tree/master/RollingHash/src/LC_2223)  
 
 ## [Heap](https://github.com/Ryannx/Leetcode/tree/master/Heap/src)
@@ -220,6 +228,19 @@
 
 ## [SlidingWindow](https://github.com/Ryannx/Leetcode/tree/master/SlidingWindow/src)
 [438. Find All Anagrams in a String](https://github.com/Ryannx/Leetcode/tree/master/SlidingWindow/src/LC_438)  
+
+## [DivideAndConquer](https://github.com/Ryannx/Leetcode/tree/master/DivideAndConquer/src)
+[315. Count of Smaller Numbers After Self](https://github.com/Ryannx/Leetcode/tree/master/DivideAndConquer/src/LC_315)  
+[1649. Create Sorted Array through Instructions](https://github.com/Ryannx/Leetcode/tree/master/DivideAndConquer/src/LC_1649)  
+
+## [SegmentTree](https://github.com/Ryannx/Leetcode/tree/master/SegmentTree/src)
+[307. Range Sum Query - Mutable](https://github.com/Ryannx/Leetcode/tree/master/SegmentTree/src/LC_307)  
+[1157. Online Majority Element In Subarray](https://github.com/Ryannx/Leetcode/tree/master/SegmentTree/src/LC_1157)  
+[1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://github.com/Ryannx/Leetcode/tree/master/SegmentTree/src/LC_1526)  
+[1649. Create Sorted Array through Instructions](https://github.com/Ryannx/Leetcode/tree/master/SegmentTree/src/LC_1649)  
+
+## [MST](https://github.com/Ryannx/Leetcode/tree/master/MST/src)
+[1584. Min Cost to Connect All Points](https://github.com/Ryannx/Leetcode/tree/master/MST/src/LC_1584)  
 
 ## [Other](https://github.com/Ryannx/Leetcode/tree/master/Other/src)
 [31. Next Permutation](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_31)  
