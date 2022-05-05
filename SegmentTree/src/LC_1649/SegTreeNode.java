@@ -1,7 +1,6 @@
 package LC_1649;
 
 class SegTreeNode {
-
     private SegTreeNode left, right;
     private int amount;
     private int start, end;
