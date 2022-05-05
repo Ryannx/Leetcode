@@ -1,6 +1,6 @@
 package LC_1649;
 
-public class SegTreeNode {
+class SegTreeNode {
 
     private SegTreeNode left, right;
     private int amount;
