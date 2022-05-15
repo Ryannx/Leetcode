@@ -1,4 +1,4 @@
-package LC_499;
+package LC_499.v1;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
