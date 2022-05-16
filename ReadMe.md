@@ -9,12 +9,14 @@
 [417. Pacific Atlantic Water Flow](https://github.com/Ryannx/Leetcode/tree/master/BFS/src/LC_417)  
 [542. 01 Matrix](https://github.com/Ryannx/Leetcode/tree/master/BFS/src/LC_542)  
 [752. Open the Lock](https://github.com/Ryannx/Leetcode/tree/master/BFS/src/LC_752)  
+[1091. Shortest Path in Binary Matrix](https://github.com/Ryannx/Leetcode/tree/master/BFS/src/LC_1091)  
 [1293. Shortest Path in a Grid with Obstacles Elimination](https://github.com/Ryannx/Leetcode/tree/master/BFS/src/LC_1293)  
 
 ## [DFS](https://github.com/Ryannx/Leetcode/tree/master/DFS/src)
 [game](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/GAME)  
 [10. Regular Expression Matching](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_10)  
 [22. Generate Parentheses](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_22)  
+[47. Permutations II](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_47)  
 [51. N-Queens](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_51)  
 [52. N-Queens II](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_52)  
 [72. Edit Distance](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_72)  
@@ -68,6 +70,7 @@
 [940. Distinct Subsequences II](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_940)  
 [1463. Cherry Pickup II](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_1463)  
 [1594. Maximum Non Negative Product in a Matrix](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_1594)  
+[1641. Count Sorted Vowel Strings](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_1641)  
 [1937. Maximum Number of Points with Cost](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_1937)  
 
 ## [Design](https://github.com/Ryannx/Leetcode/tree/master/Design/src)
@@ -86,11 +89,13 @@
 [150. Evaluate Reverse Polish Notation](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_150)  
 [227. Basic Calculator II](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_227)  
 [394. Decode String](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_394)  
+[456. 132 Pattern](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_456)  
 [496. Next Greater Element I](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_496)  
 [503. Next Greater Element II](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_503)  
 [735. Asteroid Collision](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_735)  
 [739. Daily Temperatures](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_739)  
 [907. Sum of Subarray Minimums](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_907)  
+[1209. Remove All Adjacent Duplicates in String II](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_1209)  
 [1856. Maximum Subarray Min-Product](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_1856)  
 
 
@@ -133,6 +138,7 @@
 [411. Minimum Unique Word Abbreviation](https://github.com/Ryannx/Leetcode/tree/master/Bit/src/LC_411)  
 [461. Hamming Distance](https://github.com/Ryannx/Leetcode/tree/master/Bit/src/LC_461)  
 [1178. Number of Valid Words for Each Puzzle](https://github.com/Ryannx/Leetcode/tree/master/Bit/src/LC_1178)  
+[2275. Largest Combination With Bitwise AND Greater Than Zero](https://github.com/Ryannx/Leetcode/tree/master/Bit/src/LC_2275)  
 
 ## [LinkedList](https://github.com/Ryannx/Leetcode/tree/master/Linkedlist)
 [143. Reorder List](https://github.com/Ryannx/Leetcode/tree/master/Linkedlist/src/LC_143)  
@@ -173,7 +179,8 @@
 
 ## [UnionFind](https://github.com/Ryannx/Leetcode/tree/master/UnionFind/src)
 [952. Largest Component Size by Common Factor](https://github.com/Ryannx/Leetcode/tree/master/UnionFind/src/LC_952)  
-[1627. Graph Connectivity With Threshold](https://github.com/Ryannx/Leetcode/tree/master/UnionFind/src/LC_1627)
+[1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://github.com/Ryannx/Leetcode/tree/master/UnionFind/src/LC_1579)  
+[1627. Graph Connectivity With Threshold](https://github.com/Ryannx/Leetcode/tree/master/UnionFind/src/LC_1627)  
 [1631. Path With Minimum Effort](https://github.com/Ryannx/Leetcode/tree/master/UnionFind/src/LC_1631)  
 
 ## [TwoPointer](https://github.com/Ryannx/Leetcode/tree/master/TwoPointer/src)
@@ -195,12 +202,13 @@
 [759. Employee Free Time](https://github.com/Ryannx/Leetcode/tree/master/Interval/src/LC_759)  
 [986. Interval List Intersections](https://github.com/Ryannx/Leetcode/tree/master/Interval/src/LC_986)  
 [1094. Car Pooling](https://github.com/Ryannx/Leetcode/tree/master/Interval/src/LC_1094)  
+[2276. Count Integers in Intervals](https://github.com/Ryannx/Leetcode/tree/master/Interval/src/LC_2276)  
 
 ## [Graph](https://github.com/Ryannx/Leetcode/tree/master/Graph/src)
 [207. Course Schedule](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_207)  
 [269. Alien Dictionary](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_269)  
 [310. Minimum Height Trees](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_310)  
-[444. Sequence Reconstruction](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_444)
+[444. Sequence Reconstruction](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_444)  
 [785. Is Graph Bipartite?](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_785)  
 [1345. Jump Game IV](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_1345)  
 [2115. Find All Possible Recipes from Given Supplies](https://github.com/Ryannx/Leetcode/tree/master/Graph/src/LC_2115)  
@@ -234,18 +242,23 @@
 [1649. Create Sorted Array through Instructions](https://github.com/Ryannx/Leetcode/tree/master/DivideAndConquer/src/LC_1649)  
 
 ## [SegmentTree](https://github.com/Ryannx/Leetcode/tree/master/SegmentTree/src)
+[218. The Skyline Problem](https://github.com/Ryannx/Leetcode/tree/master/SegmentTree/src/LC_218)  
 [307. Range Sum Query - Mutable](https://github.com/Ryannx/Leetcode/tree/master/SegmentTree/src/LC_307)  
+[370. Range Addition](https://github.com/Ryannx/Leetcode/tree/master/SegmentTree/src/LC_370)  
+[699. Falling Squares](https://github.com/Ryannx/Leetcode/tree/master/SegmentTree/src/LC_699)  
 [1157. Online Majority Element In Subarray](https://github.com/Ryannx/Leetcode/tree/master/SegmentTree/src/LC_1157)  
 [1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://github.com/Ryannx/Leetcode/tree/master/SegmentTree/src/LC_1526)  
 [1649. Create Sorted Array through Instructions](https://github.com/Ryannx/Leetcode/tree/master/SegmentTree/src/LC_1649)  
 
 ## [MST](https://github.com/Ryannx/Leetcode/tree/master/MST/src)
+[1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://github.com/Ryannx/Leetcode/tree/master/MST/src/LC_1489)  
 [1584. Min Cost to Connect All Points](https://github.com/Ryannx/Leetcode/tree/master/MST/src/LC_1584)  
 
 ## [Other](https://github.com/Ryannx/Leetcode/tree/master/Other/src)
 [31. Next Permutation](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_31)  
 [43. Multiply Strings](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_43)  
 [240. Search a 2D Matrix II](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_240)  
+[370. Range Addition](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_370)  
 [384. Shuffle an Array](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_384)  
 [418. Sentence Screen Fitting](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_418)  
 [454. 4Sum II](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_454)  
