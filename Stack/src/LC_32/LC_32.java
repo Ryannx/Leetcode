@@ -12,7 +12,7 @@ public class LC_32 {
 
         Stack<Integer> stack = new Stack<>();
         int strLen = s.length();
-        int res = Integer.MIN_VALUE;
+        int res = 0;
         for (int i = 0; i < strLen; i++) {
             char cur = s.charAt(i);
             if (cur == '(') {
