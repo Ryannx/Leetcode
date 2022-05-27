@@ -1,0 +1,5 @@
+### 解题思路：
+本题与常规sweeping line不同在于，常规sweep line只需要记录在start或者end记录加减即可，最终排序后直接合并即可完成merge
+interval。本题要求在更新interval时如果最大高度发生变化时，需要记录变化的高度；取当前位置能取到的最大高度，所以治理可以
+使用TreeSet来进行自动排序，将待处理的点直接加入TreeSet，然后读取更新后TreeSet最大值即可，然后对所有的candidates进行
+merge。
