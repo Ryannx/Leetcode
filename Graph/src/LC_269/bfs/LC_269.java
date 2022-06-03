@@ -1,4 +1,4 @@
-package LC_269;
+package LC_269.bfs;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
