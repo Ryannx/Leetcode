@@ -32,6 +32,7 @@
 [320. Generalized Abbreviation](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_320)  
 [329. Longest Increasing Path in a Matrix](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_329)  
 [337. House Robber III](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_337)  
+[351. Android Unlock Patterns](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_351)  
 [403. Frog Jump](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_403)  
 [472. Concatenated Words](https://github.com/Ryannx/Leetcode/tree/master/DFS/src/LC_472)  
 [474. Ones and Zeroes](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_474)  
@@ -50,6 +51,7 @@
 [778. Swim in Rising Water](https://github.com/Ryannx/Leetcode/tree/master/Dijkstra/src/LC_778)  
 [787. Cheapest Flights Within K Stops](https://github.com/Ryannx/Leetcode/tree/master/Dijkstra/src/LC_787)  
 [2093. Minimum Cost to Reach City With Discounts](https://github.com/Ryannx/Leetcode/tree/master/Dijkstra/src/LC_2093)  
+[2290. Minimum Obstacle Removal to Reach Corner](https://github.com/Ryannx/Leetcode/tree/master/Dijkstra/src/LC_2290)  
 
 ## [DP](https://github.com/Ryannx/Leetcode/tree/master/DP/src)
 [53. Maximum Subarray](https://github.com/Ryannx/Leetcode/tree/master/DP/src/LC_53)  
@@ -102,6 +104,7 @@
 [907. Sum of Subarray Minimums](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_907)  
 [1209. Remove All Adjacent Duplicates in String II](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_1209)  
 [1856. Maximum Subarray Min-Product](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_1856)  
+[2289. Steps to Make Array Non-decreasing](https://github.com/Ryannx/Leetcode/tree/master/Stack/src/LC_2289)  
 
 
 ## [Tree](https://github.com/Ryannx/Leetcode/tree/master/Tree/src)
@@ -157,10 +160,13 @@
 ## [Greedy](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src)
 [300. Longest Increasing Subsequence](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src/LC_300)  
 [354. Russian Doll Envelopes](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src/LC_354)  
+[621. Task Scheduler](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src/LC_621)  
+[984. String Without AAA or BBB](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src/LC_984)  
 [991. Broken Calculator](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src/LC_991)  
 [1029. Two City Scheduling](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src/LC_1029)  
 [1178. Number of Valid Words for Each Puzzle](https://github.com/Ryannx/Leetcode/tree/master/Bit/src/LC_1178)  
 [1217. Minimum Cost to Move Chips to The Same Position](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src/LC_1217)  
+[1405. Longest Happy String](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src/LC_1405)  
 [1663. Smallest String With A Given Numeric Value](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src/LC_1663)  
 [2279. Maximum Bags With Full Capacity of Rocks](https://github.com/Ryannx/Leetcode/tree/master/Greedy/src/LC_2279)  
 
@@ -211,7 +217,9 @@
 [759. Employee Free Time](https://github.com/Ryannx/Leetcode/tree/master/Interval/src/LC_759)  
 [986. Interval List Intersections](https://github.com/Ryannx/Leetcode/tree/master/Interval/src/LC_986)  
 [1094. Car Pooling](https://github.com/Ryannx/Leetcode/tree/master/Interval/src/LC_1094)  
+[1893. Check if All the Integers in a Range Are Covered](https://github.com/Ryannx/Leetcode/tree/master/Interval/src/LC_1893)  
 [2015. Average Height of Buildings in Each Segment](https://github.com/Ryannx/Leetcode/tree/master/Interval/src/LC_2015)  
+[2158. Amount of New Area Painted Each Day](https://github.com/Ryannx/Leetcode/tree/master/Interval/src/LC_2158)  
 [2237. Count Positions on Street With Required Brightness](https://github.com/Ryannx/Leetcode/tree/master/Interval/src/LC_2237)  
 [2276. Count Integers in Intervals](https://github.com/Ryannx/Leetcode/tree/master/Interval/src/LC_2276)  
 
@@ -233,6 +241,7 @@
 [844. Backspace String Compare](https://github.com/Ryannx/Leetcode/tree/master/RollingHash/src/LC_844)  
 [1044. Longest Duplicate Substring](https://github.com/Ryannx/Leetcode/tree/master/RollingHash/src/LC_1044)  
 [1062. Longest Repeating Substring](https://github.com/Ryannx/Leetcode/tree/master/RollingHash/src/LC_1062)  
+[1461. Check If a String Contains All Binary Codes of Size K](https://github.com/Ryannx/Leetcode/tree/master/RollingHash/src/LC_1461)  
 [2223. Sum of Scores of Built Strings](https://github.com/Ryannx/Leetcode/tree/master/RollingHash/src/LC_2223)  
 
 ## [Heap](https://github.com/Ryannx/Leetcode/tree/master/Heap/src)
@@ -266,6 +275,7 @@
 [1584. Min Cost to Connect All Points](https://github.com/Ryannx/Leetcode/tree/master/MST/src/LC_1584)  
 
 ## [Other](https://github.com/Ryannx/Leetcode/tree/master/Other/src)
+[29. Divide Two Integers](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_29)  
 [31. Next Permutation](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_31)  
 [43. Multiply Strings](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_43)  
 [240. Search a 2D Matrix II](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_240)  
@@ -279,6 +289,7 @@
 [954. Array of Doubled Pairs](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_954)  
 [1041. Robot Bounded In Circle](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_1041)  
 [1218. Longest Arithmetic Subsequence of Given Difference](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_1218)  
+[1386. Cinema Seat Allocation](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_1386)  
 [2007. Find Original Array From Doubled Array](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_2007)  
 [2280. Minimum Lines to Represent a Line Chart](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_2280)  
 [2281. Sum of Total Strength of Wizards](https://github.com/Ryannx/Leetcode/tree/master/Other/src/LC_2281)  
