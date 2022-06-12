@@ -1,9 +1,9 @@
-package LC_2305;
+package LC_2304;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
-public class LC_2305 {
+public class LC_2304 {
     public int minPathCost(int[][] grid, int[][] moveCost) {
 
         if (grid == null) {
