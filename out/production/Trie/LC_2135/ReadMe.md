@@ -1,0 +1,4 @@
+### 解题思路：
+在targetWords和startWords中所有的字母都没有重复，我们只需要找在startWords中check是否存在比targetWords[i]长度小于1
+的subSequence。在check之前我们需要对targetWords和startWords中的每个单词进行sort。为了快速查询可以使用Trie来记录。
+这里特别注意，对经典数据结构的API最好不要修改，针对题目的特殊要求提供对应的input，来调用经典API，从而降低出错率。
