@@ -5,19 +5,15 @@ import java.util.HashMap;
 public class LC_464 {
     public boolean canIWin(int maxChoosableInteger, int desiredTotal) {
 
-        if (desiredTotal < 0) {
-            return false;
+        if (desiredTotal <= 0) {
+            return true;
         }
-
-        if ((1 + maxChoosableInteger) * maxChoosableInteger / 2 < desiredTotal) {
-            return false;
-        }
+        if ((1 + maxChoosableInteger) * maxChoosableInteger / 2 < desiredTotal) return false;
         HashMap<Integer, Boolean> memo = new HashMap<>();
-
-        return dfs(0, 0, desiredTotal, maxChoosableInteger, memo);
+        return dfs(desiredTotal, maxChoosableInteger, 0, 0, memo);
     }
 
-    private boolean dfs(int board, int sum, int desiredTotal, int maxChoosableInteger, HashMap<Integer, Boolean> memo) {
+    private boolean dfs(int desiredTotal, int maxChoosableInteger, int board, int sum, HashMap<Integer, Boolean> memo) {
 
         if (sum >= desiredTotal) {
             return false;
@@ -29,30 +25,14 @@ public class LC_464 {
         }
 
         for (int i = 0; i < maxChoosableInteger; i++) {
-            if (isValid(board, i)) {
-                if (sum + i + 1 >= desiredTotal) {
-                    memo.put(board, true);
-                    return true;
-                }
-                int newBoard = board | (1 << i);
-                if (!dfs(newBoard, sum + i + 1, desiredTotal, maxChoosableInteger, memo)) {
-                    memo.put(board, true);
-                    return true;
-                }
+            if ((board & (1 << i)) != 0) continue;
+            if (!dfs(desiredTotal, maxChoosableInteger, board | (1 << i), sum + i + 1, memo)) {
+                memo.put(board, true);
+                return true;
             }
         }
 
         memo.put(board, false);
-        return false;
-    }
-
-    // 0: available  1: used
-    private boolean isValid(int board, int idx) {
-
-        if ((board & (1 << idx)) == 0) {
-            return true;
-        }
-
         return false;
     }
 
