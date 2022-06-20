@@ -1,6 +1,6 @@
 package LC_527;
 
-class TrieNode {
+public class TrieNode {
     TrieNode[] nexts;
     int count;
     int idx;
