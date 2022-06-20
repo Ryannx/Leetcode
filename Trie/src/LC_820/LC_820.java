@@ -41,7 +41,6 @@ public class LC_820 {
             }
             if (flag) {
                 res += word.length() + 1;
-                flag = false;
             }
         }
 
