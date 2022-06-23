@@ -1,0 +1,3 @@
+### 解题思路：
+本题对deadline和duration两个维度都有要求，不妨先对deadline进行排序，如果我们不能在规定deadline完成所有课程，那么希望
+在deadline之内完成尽可能多的课程花费尽可能少的时间。
