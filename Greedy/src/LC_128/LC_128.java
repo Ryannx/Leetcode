@@ -1,5 +1,7 @@
 package LC_128;
 
+import java.util.*;
+
 public class LC_128 {
     public int longestConsecutive(int[] nums) {
 
